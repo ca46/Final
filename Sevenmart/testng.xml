@@ -9,7 +9,7 @@
   
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testscripts.ManageNewsTest"/> <!-- Fixed package name -->
+      <class name="testscript.ManageNewsTest"/> <!-- Fixed package name -->
     </classes>
   </test>
 </suite>
